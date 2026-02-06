@@ -111,35 +111,7 @@ if uploaded_file is not None:
         else:
             st.success("Prediction: Employee is likely to STAY with the Company.")
         
-        
-#cd "C:\Users\Hema Kalai\Downloads"
-#streamlit run HR-Attrition.py
-#Built an end-to-end ML pipeline to predict employee attrition and 
-#optimize decision thresholds using ROC analysis.
-
-
-'''🔹 Project title (use this exactly)
-
-Employee Attrition Prediction & Retention Insights
-
-🔹 Resume bullets (copy–paste friendly)
-
-Use 4–5 bullets max:
-
-Built an end-to-end machine learning pipeline to predict employee attrition using Python, Pandas, Scikit-learn
-
-Performed data cleaning, categorical encoding, and class-imbalance handling to improve model robustness
-
-Trained a Random Forest classifier and evaluated performance using ROC curve and threshold optimization
-
-Identified key attrition drivers such as overtime, job role, tenure, and income
-
-Developed an interactive Streamlit application to predict individual employee attrition risk and support HR decision-making
-'''
-
-
-
-
+ 
 
 
 
